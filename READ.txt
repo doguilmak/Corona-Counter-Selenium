@@ -1,0 +1,8 @@
+Attention
+
+You need to download selenium, time, datetime, pandas and matplotlib for running this codes.
+Running these codes in IDLE(Python 3.5 32-bit) can give you an error because of libraries.
+Please try to download them and run in Spyder.
+
+If there is an error or problem, please inform me.
+doguilmak@gmail.com

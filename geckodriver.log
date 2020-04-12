@@ -1,0 +1,932 @@
+1585245217885	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KULLAN~1\\AppData\\Local\\Temp\\rust_mozprofile0FdPBM"
+1585245219183	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585245219962	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585245219962	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585245219963	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585245219963	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585245222428	Marionette	INFO	Listening on port 53926
+1585245222634	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12587: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12627: unreachable code after return statement
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200319/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200324/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12587: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12627: unreachable code after return statement
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200319/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200324/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12587: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12627: unreachable code after return statement
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200319/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200319/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12587: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12627: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12587: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12627: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12587: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12627: unreachable code after return statement
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200319/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200319/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12587: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12627: unreachable code after return statement
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200319/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200319/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12587: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12627: unreachable code after return statement
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200319/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200319/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12587: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12627: unreachable code after return statement
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200319/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200319/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12587: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12627: unreachable code after return statement
+1585245279310	Marionette	INFO	Stopped listening on port 53926
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585324686665	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KULLAN~1\\AppData\\Local\\Temp\\rust_mozprofileI7LaBa"
+1585324687693	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585324688112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585324688112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585324688112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585324688112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585324689893	Marionette	INFO	Listening on port 58433
+1585324690290	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12517: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12557: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12517: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12557: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012003101714470/v0/amp-analytics-0.1.js, line 109: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12517: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12557: unreachable code after return statement
+1585324716571	Marionette	INFO	Stopped listening on port 58433
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585438776033	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KULLAN~1\\AppData\\Local\\Temp\\rust_mozprofile9IxIGc"
+1585438776536	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585438777288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585438777288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585438777288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585438777288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585438779434	Marionette	INFO	Listening on port 63798
+1585438779664	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11791: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11832: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+1585438920298	Marionette	INFO	Stopped listening on port 63798
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585438956663	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KULLAN~1\\AppData\\Local\\Temp\\rust_mozprofilecNysWC"
+1585438957250	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585438957906	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585438957906	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585438957906	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585438957907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585438960016	Marionette	INFO	Listening on port 65496
+1585438960307	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11789: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11830: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+1585439030668	Marionette	INFO	Stopped listening on port 65496
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585439157227	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KULLAN~1\\AppData\\Local\\Temp\\rust_mozprofiletHPdBp"
+1585439157803	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585439158415	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585439158416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585439158416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585439158416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585439160413	Marionette	INFO	Listening on port 52781
+1585439160866	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11790: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11831: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11789: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11830: unreachable code after return statement
+1585439174573	Marionette	INFO	Stopped listening on port 52781
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585439412275	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KULLAN~1\\AppData\\Local\\Temp\\rust_mozprofileMzKY4B"
+1585439412847	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585439413530	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585439413531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585439413531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585439413531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585439415454	Marionette	INFO	Listening on port 55137
+1585439415907	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11790: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11831: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11791: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11832: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11789: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11830: unreachable code after return statement
+1585439440359	Marionette	INFO	Stopped listening on port 55137
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585439668837	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KULLAN~1\\AppData\\Local\\Temp\\rust_mozprofile68Z1et"
+1585439669385	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585439670041	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585439670041	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585439670041	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585439670042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585439672163	Marionette	INFO	Listening on port 62110
+1585439672461	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11789: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11830: unreachable code after return statement
+JavaScript error: https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js, line 56: TypeError: f[0] is undefined
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+1585442546561	Marionette	INFO	Stopped listening on port 62110
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585487796333	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KULLAN~1\\AppData\\Local\\Temp\\rust_mozprofileZONnb4"
+1585487797584	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585487798258	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585487798259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585487798259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585487798259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585487800416	Marionette	INFO	Listening on port 49817
+1585487800479	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11739: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11780: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11739: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11780: unreachable code after return statement
+1585487815368	Marionette	INFO	Stopped listening on port 49817
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585487857771	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KULLAN~1\\AppData\\Local\\Temp\\rust_mozprofileyiqt3B"
+1585487858395	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585487859004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585487859004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585487859005	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585487859005	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585487861544	Marionette	INFO	Listening on port 60938
+1585487861899	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11739: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11780: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11739: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11780: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11739: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11780: unreachable code after return statement
+1585487893584	Marionette	INFO	Stopped listening on port 60938
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585487966555	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KULLAN~1\\AppData\\Local\\Temp\\rust_mozprofileECgS7s"
+1585487967129	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585487967784	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585487967785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585487967785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585487967785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585487969762	Marionette	INFO	Listening on port 54896
+1585487970181	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11740: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11781: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+1585488638983	Marionette	INFO	Stopped listening on port 54896
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+etworkStatus
+1585488013657	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585488013657	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585488013657	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585488013657	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585488015072	Marionette	INFO	Listening on port 59586
+1585488015110	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11739: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11780: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11739: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11780: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11739: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11780: unreachable code after return statement
+1585488038812	Marionette	INFO	Stopped listening on port 59586
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585488064628	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KULLAN~1\\AppData\\Local\\Temp\\rust_mozprofileFdMOne"
+1585488065192	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585488065967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585488065968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585488065968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585488065968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585488068154	Marionette	INFO	Listening on port 51307
+1585488068262	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11740: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11781: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11739: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11780: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11739: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11780: unreachable code after return statement
+1585488099028	Marionette	INFO	Stopped listening on port 51307
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585488164452	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KULLAN~1\\AppData\\Local\\Temp\\rust_mozprofile3YfmcU"
+1585488165009	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585488165715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585488165716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585488165716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585488165716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585488167880	Marionette	INFO	Listening on port 57018
+1585488168080	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11739: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11780: unreachable code after return statement
+1585488640154	Marionette	INFO	Stopped listening on port 57018
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+bextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585488195844	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585488195844	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585488195844	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585488195844	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585488197273	Marionette	INFO	Listening on port 62805
+1585488197749	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11739: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11780: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11739: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11780: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11739: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11780: unreachable code after return statement
+1585488223900	Marionette	INFO	Stopped listening on port 62805
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585488909976	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KULLAN~1\\AppData\\Local\\Temp\\rust_mozprofilezvkNOO"
+1585488910350	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585488910669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585488910669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585488910669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585488910669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585488912263	Marionette	INFO	Listening on port 59791
+1585488912597	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11739: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11780: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11740: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11781: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11740: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11781: unreachable code after return statement
+1585488940908	Marionette	INFO	Stopped listening on port 59791
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585504185676	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KULLAN~1\\AppData\\Local\\Temp\\rust_mozprofileR1LNgM"
+1585504186354	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585504187120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585504187120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585504187120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585504187121	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585504189454	Marionette	INFO	Listening on port 63980
+1585504189823	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11751: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11792: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11752: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11793: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11752: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11793: unreachable code after return statement
+1585504217817	Marionette	INFO	Stopped listening on port 63980
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585505441128	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KULLAN~1\\AppData\\Local\\Temp\\rust_mozprofileW6xn41"
+1585505441944	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585505442295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585505442295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585505442295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585505442295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585505444031	Marionette	INFO	Listening on port 59520
+1585505444273	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585505464727	Marionette	INFO	Stopped listening on port 59520
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585505632240	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KULLAN~1\\AppData\\Local\\Temp\\rust_mozprofiletsXXlL"
+1585505632598	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585505632940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585505632940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585505632940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585505632940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585505634610	Marionette	INFO	Listening on port 59599
+1585505634876	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11756: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11797: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11756: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11797: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11756: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11797: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11757: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11798: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11757: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11798: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11757: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11798: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11756: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11797: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11757: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11798: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11755: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11796: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11756: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11797: unreachable code after return statement
+1585505710519	Marionette	INFO	Stopped listening on port 59599
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585505741142	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KULLAN~1\\AppData\\Local\\Temp\\rust_mozprofileDLJhLT"
+1585505741463	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585505741773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585505741773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585505741773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585505741773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585505743277	Marionette	INFO	Listening on port 56984
+1585505743775	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11757: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11798: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11755: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11796: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11755: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11796: unreachable code after return statement
+1585505774436	Marionette	INFO	Stopped listening on port 56984
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585568517943	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KULLAN~1\\AppData\\Local\\Temp\\rust_mozprofilePsf6fM"
+1585568519546	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585568519852	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585568519853	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585568519853	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585568519853	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585568521430	Marionette	INFO	Listening on port 58813
+1585568521584	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11697: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11753: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11696: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11752: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11696: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11752: unreachable code after return statement
+1585568560617	Marionette	INFO	Stopped listening on port 58813
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585568917913	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KULLAN~1\\AppData\\Local\\Temp\\rust_mozprofileJy7Wvl"
+1585568918218	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585568918526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585568918526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585568918526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585568918526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585568920032	Marionette	INFO	Listening on port 51810
+1585568920042	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11696: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11752: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11696: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11752: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11696: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11752: unreachable code after return statement
+1585568954343	Marionette	INFO	Stopped listening on port 51810
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585569711235	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KULLAN~1\\AppData\\Local\\Temp\\rust_mozprofile8AODNd"
+1585569711701	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585569712379	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585569712380	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585569712380	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585569712380	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585569714478	Marionette	INFO	Listening on port 63022
+1585569714857	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11696: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11752: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11697: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11753: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11697: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11753: unreachable code after return statement
+1585569739756	Marionette	INFO	Stopped listening on port 63022
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585677932265	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KULLAN~1\\AppData\\Local\\Temp\\rust_mozprofilet6xqHA"
+1585677934055	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585677934772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585677934773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585677934773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585677934773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585677937146	Marionette	INFO	Listening on port 63790
+1585677937641	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11826: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11882: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11826: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11882: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11825: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11881: unreachable code after return statement
+1585677966535	Marionette	INFO	Stopped listening on port 63790
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585678074405	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KULLAN~1\\AppData\\Local\\Temp\\rust_mozprofileXZ7cMN"
+1585678074681	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585678075520	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585678075520	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585678075520	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585678075520	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585678077129	Marionette	INFO	Listening on port 59586
+1585678077571	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11827: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11883: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11826: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11882: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11826: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11882: unreachable code after return statement
+1585678107590	Marionette	INFO	Stopped listening on port 59586
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585678961728	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KULLAN~1\\AppData\\Local\\Temp\\rust_mozprofilerYbvlU"
+1585678962031	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585678962357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585678962357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585678962358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585678962358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585678963987	Marionette	INFO	Listening on port 64261
+1585678964403	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11826: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11882: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11826: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11882: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11826: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11882: unreachable code after return statement
+1585678997512	Marionette	INFO	Stopped listening on port 64261
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585680211725	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KULLAN~1\\AppData\\Local\\Temp\\rust_mozprofilecB8Oa6"
+1585680212120	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585680212581	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585680212581	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585680212581	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585680212581	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585680214027	Marionette	INFO	Listening on port 51994
+1585680214349	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11833: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11889: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11833: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11889: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11833: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11889: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11833: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11889: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11833: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11889: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11833: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11889: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11833: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11889: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11833: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11889: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11833: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11889: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11833: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11889: unreachable code after return statement
+1585680289626	Marionette	INFO	Stopped listening on port 51994
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585680414446	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KULLAN~1\\AppData\\Local\\Temp\\rust_mozprofileS6jr3F"
+1585680414796	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585680415136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585680415137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585680415137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585680415137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585680416544	Marionette	INFO	Listening on port 55544
+1585680416567	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11835: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11891: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11834: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11890: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11834: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11890: unreachable code after return statement
+1585680442340	Marionette	INFO	Stopped listening on port 55544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585680585036	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KULLAN~1\\AppData\\Local\\Temp\\rust_mozprofile41Q5Cb"
+1585680585339	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585680586091	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585680586091	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585680586091	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585680586091	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585680587474	Marionette	INFO	Listening on port 61622
+1585680587670	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11833: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11889: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11833: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11889: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11833: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11889: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11833: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11889: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11833: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11889: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11834: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11890: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11834: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11890: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11834: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11890: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11834: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11890: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11833: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11889: unreachable code after return statement
+1585680757342	Marionette	INFO	Stopped listening on port 61622
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586195518718	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KULLAN~1\\AppData\\Local\\Temp\\rust_mozprofileUSFK26"
+1586195520155	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586195520646	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586195520646	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586195520646	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586195520647	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586195522594	Marionette	INFO	Listening on port 60761
+1586195522857	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12430: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12486: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12430: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12486: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12430: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 12486: unreachable code after return statement
+1586195543466	Marionette	INFO	Stopped listening on port 60761
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
